@@ -1,0 +1,201 @@
+version: 5.1.0
+variant: default
+logo: https://626c-blogs-7gj9u1232e248417-1313350496.tcb.qcloud.la/blogs/logo-cfan.png?sign=b5582b4437018d7e2114714173d7a888&t=1663469518
+head:
+    favicon: https://626c-blogs-7gj9u1232e248417-1313350496.tcb.qcloud.la/blogs/%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84%E5%9B%BE%E6%A0%87.png?sign=6f7930f63c84b187a36b82b154c47e85&t=1663467314
+    manifest:
+        name: 
+        short_name: 
+        start_url: 
+        theme_color: 
+        background_color: 
+        display: standalone
+        icons:
+            -
+                src: ''
+                sizes: ''
+                type: 
+    open_graph:
+        title: 
+        type: blog
+        url: 
+        image: 
+        site_name: 
+        author: 
+        description: 
+        twitter_card: 
+        twitter_id: 
+        twitter_site: 
+        google_plus: 
+        fb_admins: 
+        fb_app_id: 
+    structured_data:
+        title: 
+        description: 
+        url: 
+        author: 
+        publisher: 
+        publisher_logo: 
+        image: 
+    meta:
+        - ''
+    rss: 
+navbar:
+    menu:
+        Home: /
+        Archives: /archives
+        Categories: /categories
+        Tags: /tags
+        About: /about
+    links:
+footer:
+    links:
+        Creative Commons:
+            icon: fab fa-creative-commons
+            url: 'https://creativecommons.org/'
+        Atrribution 4.0 International:
+            icon: fab fa-creative-commons-by
+            url: 'https://creativecommons.org/licenses/by/4.0/'
+        GitHub:
+            icon: fab fa-github
+            url: https://github.com/CFan7
+article:
+    highlight:
+        theme: atom-one-light
+        clipboard: true
+        fold: unfolded
+    readtime: true
+    update_time: false
+    licenses:
+        Creative Commons:
+            icon: fab fa-creative-commons
+            url: https://creativecommons.org/
+        Attribution:
+            icon: fab fa-creative-commons-by
+            url: https://creativecommons.org/licenses/by/4.0/
+        Noncommercial:
+            icon: fab fa-creative-commons-nc
+            url: https://creativecommons.org/licenses/by-nc/4.0/
+search:
+    type: insight
+    index_pages: true
+comment:
+    type: twikoo
+    envId: blogs-7gj9u1232e248417
+    shortname: ''
+donates:
+#    -
+#        type: afdian
+#        url: ''
+#    -
+#        type: alipay
+#        qrcode: ''
+    -
+        type: buymeacoffee
+        url: 'https://www.buymeacoffee.com/cfan.wang'
+#    -
+#        type: patreon
+#        url: ''
+#    -
+#        type: paypal
+#        business: ''
+#        currency_code: USD
+#    -
+#        type: wechat
+#        qrcode: ''
+share:
+    type: sharethis
+    install_url: 'https://platform-api.sharethis.com/js/sharethis.js#property=6325534ea6e54600124689cc&product=sticky-share-buttons'
+sidebar:
+    left:
+        sticky: true
+    right:
+        sticky: false
+widgets:
+    -
+        position: left
+        type: profile
+        author: cfan.wang
+        author_title: 
+        location: Chengdu, China
+        avatar: https://octodex.github.com/images/filmtocat.png 
+        avatar_rounded: false
+        gravatar: 
+        follow_link: https://github.com/CFan7
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: https://github.com/CFan7
+            LinkedIn:
+                icon: fab fa-linkedin
+                url: https://www.linkedin.cn/incareer/in/羽凡-王-47a585250
+            bilibili:
+                icon: fab fa-bilibili
+                url: https://space.bilibili.com/38875272
+    -
+        position: left
+        type: toc
+        index: true
+        collapsed: true
+        depth: 3
+    -
+        position: left
+        type: categories
+    -
+        position: left
+        type: recent_posts
+    -
+        position: left
+        type: archives
+    -
+        position: left
+        type: tags
+        order_by: name
+        amount: 
+        show_count: true
+#    -
+#        position: left
+#        type: adsense
+#        client_id: ''
+#        slot_id: ''
+#    -
+#        position: left
+#        type: followit
+#        description: 
+#        action_url: ''
+#        verification_code: ''
+plugins:
+    animejs: true
+    back_to_top: true
+    baidu_analytics:
+        tracking_id: 
+    bing_webmaster:
+        tracking_id: 
+    busuanzi: false
+    cnzz:
+        id: 
+        web_id: 
+    cookie_consent:
+        type: info
+        theme: edgeless
+        static: false
+        position: bottom-left
+        policyLink: https://www.cookiesandyou.com/
+    gallery: true
+    google_analytics:
+        tracking_id: 
+    hotjar:
+        site_id: 
+    katex: false
+    mathjax: false
+    outdated_browser: false
+    progressbar: true
+    statcounter:
+        project: 
+        security: 
+    twitter_conversion_tracking:
+        pixel_id: 
+providers:
+    cdn: jsdelivr
+    fontcdn: google
+    iconcdn: fontawesome
