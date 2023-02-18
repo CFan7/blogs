@@ -1,6 +1,6 @@
 ---
 title: Hello My Friend
-posted: 2022-09-16 08:00:00
+date: 2022-09-16 08:00:00
 id: hello
 categories:
 - Welcome 
