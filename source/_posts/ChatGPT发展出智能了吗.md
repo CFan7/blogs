@@ -1,6 +1,6 @@
 ---
 title: ChatGPT发展出智能了吗
-posted: 2023-02-17 20:00:00
+date: 2023-02-17 20:00:00
 id: ChatGPT
 categories:
 - 技术前沿
