@@ -26,6 +26,6 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "hexo-theme-landscape": "^0.0.3",
-    "semver": "^7.3.7"
+    "semver": "^7.5.4"
   }
 }
